@@ -12,6 +12,11 @@ ul {
 
 .div2 {
   background-color: pink;
+  border: 10px solid blue;
+}
+
+.div3 {
+  background-color: purple;
 }
 
 #myId {
